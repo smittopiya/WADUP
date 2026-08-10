@@ -6,6 +6,10 @@
     
     echo "<br> 5 to 10 using ForEach Loop <br>";
 
-    
+    $numbers = range(5, 10); 
+
+    foreach ($numbers as $num) {
+        echo $num . "<br>";
+    }
 
 ?>
