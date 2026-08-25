@@ -1,0 +1,2 @@
+Hello! This data is coming from a TXT file.
+Welcome to AJAX with PHP.
